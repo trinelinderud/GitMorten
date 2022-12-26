@@ -1,5 +1,5 @@
 function heiVerden (){
-    return "Hei ny verden!";
+    return "Hei ny verden!" + "Hei Trine Lise Marie!";
 }
 
 function main(){
