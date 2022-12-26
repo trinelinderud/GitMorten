@@ -1,5 +1,5 @@
 function heiVerden (){
-    return "Hei verden!";
+    return "Hei ny verden!";
 }
 
 console.log(heiVerden())
